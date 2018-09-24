@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * 要注意与main同级目录或者在main的下级,在main上级会找不到
  */
 
+//@Controller与SpringMVC中一样用于处理http请求
 @Controller
 public class HelloController {
 
