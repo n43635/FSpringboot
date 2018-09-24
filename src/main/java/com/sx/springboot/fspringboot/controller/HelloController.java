@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Spring的Controller测试
+ * Spring的Controller Hello World测试
  * 要注意与main同级目录或者在main的下级,在main上级会找不到
  */
 
